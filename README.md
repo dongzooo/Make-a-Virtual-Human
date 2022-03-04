@@ -1,4 +1,4 @@
-## Make-a-Virtual-Human
+## 가상 인플루언서 만들어보기(Make-a-Virtual-Human)
 
 
 ### 1. Overview
