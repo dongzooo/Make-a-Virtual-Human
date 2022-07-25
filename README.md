@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/40832965/155636001-8c777bd7-c274-4c24-
 - Google colab
 - tensorflow_version 1.x
 -  h5py version < 3.0
+- python 3.x
 
 
 
