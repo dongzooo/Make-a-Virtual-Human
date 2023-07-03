@@ -1,6 +1,6 @@
 ## 가상 인플루언서 만들어보기(Make-a-Virtual-Human)
 
-
+##자세한 내용 -> https://quantpro.co.kr/gan-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ea%b0%80%ec%83%81%ec%9d%b8%ed%94%8c%eb%a3%a8%ec%96%b8%ec%84%9c-%eb%a7%8c%eb%93%a4%ec%96%b4%eb%b3%b4%ea%b8%b0-make-a-virtual-influencer-with-colab%ea%b0%80/
 ### 1. Overview
 - 가상 인플루언서와 버츄얼 유튜버들이 큰 인기를 끌면서 가상의 인물은 어떤 기술을 써서 만들어 보는 가에 대한 궁금증에서 시작
 - GAN 알고리즘을 활용해 가상인물 제작 및 딥페이크 영상 제작
